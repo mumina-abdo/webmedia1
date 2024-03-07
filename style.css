@@ -1,0 +1,193 @@
+#page{
+    display: flex;
+    margin-left: 20%;
+
+}
+.navbar{
+    display: flex;
+    margin-left: 10%;
+    gap: 5px;
+    font-size: medium;
+    
+}
+.logo{
+    width: 30%;
+    height: 20%;
+    margin-left: 5%;
+}
+.logo2{
+    margin-right: 5%;
+}
+
+.paragraph1{
+    color: red;
+}
+.image1{
+    display: flex;
+    margin-left: 20%;
+    text-align: left;
+    
+}
+.image2{
+    width: 80%;
+    height: 50%;
+}
+.paragraph2{
+    color: red;
+}
+.containerkow{
+    /* margin-left: 50%; */
+    margin-bottom: 5%;
+}
+.image3{
+    margin-right: 10%;
+}
+.paragraph7{
+    color: red;
+    margin-left: 45%;
+}
+.paragraph9{
+    display: flex;
+    gap: 2px;
+    margin-left: 40%;
+}
+.picture1{
+    display: flex;
+    width: 100%;
+    height: 80%;
+}
+.almas{
+    display: flex;
+    padding-left: 25%;
+    justify-content: space-between;
+    margin-right: 10%;
+}
+.paragraph8{
+    margin-left: 35%;
+
+}
+.combo{
+    display: flex;
+    padding-left: 20%;
+    justify-content: space-between;
+    gap: 20px;
+    margin-right: 5%;
+}
+.finishing{
+    display: flex;
+    padding-left: 20%;
+    justify-content: space-between;
+    font-size: small;
+    margin-top: 5%;
+    gap: 20px;
+    margin-right: 5%;
+}
+.buttonmain{
+    display: flex;
+    /* padding-left: 30%; */
+    justify-content: space-between;
+    
+}
+.test{
+    display: flex;
+    margin-left: 45%;
+    color: red;
+
+}
+.words{
+    display: flex;
+    margin-left: 45%;
+
+}
+.button1{
+    border-radius: 1px;
+    color: blue;
+}
+.pull{
+    color: red;
+}
+
+.about{
+    color: red;
+}
+.button3{
+    /* background-color: rgb(29, 29, 37); */
+
+}
+
+.buuton4{
+    /* background-color: blue; */
+
+}
+
+.button5{
+    /* background-color: rgb(22, 22, 27); */
+
+}
+.photo{
+    display: flex;
+    margin-left: 40%;
+    color: red;
+
+}
+.all{
+    margin-right: 5%;
+    margin-left: 5%;
+    gap: 5%;
+    padding-right: 20%;
+}
+
+
+.f1{
+    display: flex;
+    margin-left: 30%;
+    text-align: justify;
+
+}
+.pos1{
+    color: red;
+}
+.pos2{
+    color: red;
+}
+.pos3{
+    color: red;
+}
+.pos4{
+    color: red;
+}
+.prof{
+ 
+    color: rgb(20, 20, 90);
+}
+.mbut{
+    display: flex;
+}
+.bid1{
+    display: flex;
+}
+.muka{
+
+}
+.nation{
+    display: flex;
+}
+.major{
+    display: flex;
+}
+.paragraph6{
+    text-align: center;
+    justify-content: center;
+}
+#main{
+    background-color: rgb(103, 133, 133);
+}
+.words{
+    margin-right: 15%;
+}
+.siza{
+    font-size: small;
+}
+.hela{
+    font-size: small;
+}
